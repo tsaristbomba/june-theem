@@ -1,0 +1,5 @@
+
+    const cmd = require("D:/Capsule Corp/BOILER PLATES/Gatsby/Themes/gatsby-theme-june/node_modules/gatsby/dist/commands/develop-process.js");
+    const args = {"_":["develop"],"verbose":false,"no-color":false,"no-colors":false,"noColors":false,"noColor":false,"json":false,"H":"localhost","host":"localhost","p":"8000","port":63245,"c":"","cert-file":"","certFile":"","k":"","key-file":"","keyFile":"","ca-file":"","caFile":"","graphql-tracing":false,"graphqlTracing":false,"$0":"gatsby","directory":"D:\\Capsule Corp\\BOILER PLATES\\Gatsby\\Themes\\gatsby-theme-june\\site","browserslist":[">0.25%","not dead"],"sitePackageJson":{"private":true,"name":"site","version":"1.0.0","license":"MIT","scripts":{"develop":"gatsby develop","restart":"gatsby clean && gatsby develop","build":"gatsby build"},"dependencies":{"gatsby":"^3.1.2","gatsby-theme-june":"*","react":"^17.0.2","react-dom":"^17.0.2"}},"report":{"errorMap":{}},"useYarn":false,"proxyPort":8000,"ssl":null,"debugInfo":null};
+    cmd(args);
+  
